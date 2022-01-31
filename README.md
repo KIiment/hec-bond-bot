@@ -65,6 +65,6 @@ node bot.js
 
 ## Authors
 
-- [@KIiment](https://github.com/KIiment)
+- [@KIiment](https://github.com/xKliment)
 - [@snorkiepie](https://github.com/snorkypie/) <Big Thanks to him for helping me out!>
 
