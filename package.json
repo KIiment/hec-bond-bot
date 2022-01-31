@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@ethersproject/providers": "^5.5.2",
+    "axios": "^0.25.0",
+    "discord.js": "^13.6.0",
+    "ethers": "^5.5.3",
+    "mathjs": "^10.1.0",
+    "mongodb": "^4.3.1",
+    "node-postgres-named-function-arguments": "^1.0.0",
+    "pg": "^8.7.1"
+  }
+}
